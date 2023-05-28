@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(205, 237, 226);
+    max-width: 100%;
+    
+    
+}
+.titulo{
+   margin: 8px auto 25px;
+
+   
+}
+#caixa_principal1 {
+   display: block;
+   text-align: center;
+   max-width: 100%;
+    
+}
+img{
+    width: 450px;
+}
+#caixa_secundaria{
+    display: block;
+    text-align: center;
+    max-width: 100%;
+}
+#ultima_caixa {
+    display: block;
+    text-align: center;
+    max-width: 100%;
+    
+}
+    
+footer {
+    padding-top: 24px;
+    text-align: center;
+  
+}
